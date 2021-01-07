@@ -1,0 +1,27 @@
+{
+  "name": "whyjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "./main",
+    "test": "promises-aplus-tests promise/ajpromise.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpeakSugar/WhyJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpeakSugar/WhyJS/issues"
+  },
+  "homepage": "https://github.com/SpeakSugar/WhyJS#readme",
+  "devDependencies": {
+    "mocha": "^7.1.1",
+    "promises-aplus-tests": "^2.1.2"
+  },
+  "dependencies": {
+    "opencv4nodejs": "^5.5.0"
+  }
+}
