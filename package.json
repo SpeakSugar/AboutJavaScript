@@ -22,6 +22,7 @@
     "promises-aplus-tests": "^2.1.2"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "opencv4nodejs": "^5.5.0"
   }
 }
